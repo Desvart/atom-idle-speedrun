@@ -1,5 +1,5 @@
 from time import sleep, time
-import pyautogui
+import pyautogui # install PIL and openCV too
 from pyscreeze import Box
 from Coord import Coord
 import globals as g
@@ -10,7 +10,6 @@ from globals import debug
 
 if __name__ == '__main__':
     IMG_PATH = './img/'
-
 
     print('\n=== ATOM IDLE HACK BOT ===\n')
 
