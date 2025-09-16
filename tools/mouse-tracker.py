@@ -10,7 +10,6 @@ Usage:
 """
 
 from pynput import mouse, keyboard
-import threading
 import time
 
 class MousePositionTracker:
